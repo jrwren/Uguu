@@ -25,6 +25,5 @@
     "@node-minify/uglify-es": "^8.0.6",
     "@node-minify/cssnano": "^8.0.6",
     "@node-minify/html-minifier": "^8.0.6",
-    "node-jq": "^4.0.1"
   }
 }
